@@ -1,0 +1,38 @@
+.image-background {
+  position: relative;
+  padding-top: 30px;
+  height: 600px;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.header-logo {
+  float: left;
+  display: inline;
+  height: 36px;
+  margin-left: 120px;
+}
+
+.header {
+  width: 1370px;
+}
+
+.header-nav {
+  float: right;
+  vertical-align: baseline;
+  line-height: 36px;
+}
+
+.header-nav-item {
+  list-style: none;
+  padding: 0 10px;
+  margin: -25px;
+  display: inline-block;
+}
+
+.header-nav-link {
+  text-decoration: none;
+  font-weight: bold;
+}
+

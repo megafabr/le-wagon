@@ -1,0 +1,100 @@
+body {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 16px;
+}
+
+
+.text-large-intro {
+  color: #fff;
+  margin: 0 0 30px;
+  /*font-family: CircularStd-Black, SimHei;*/
+  font-size: 48px;
+  letter-spacing: .1px;
+
+}
+
+.text-middle-intro {
+  color: #fff;
+  margin: 0 0 30px;
+  font-size: 22px;
+  letter-spacing: .1px;
+}
+
+.text-large {
+  color: black;
+  margin: 0 0 30px;
+  font-size: 48px;
+  letter-spacing: .1px;
+
+}
+
+.text-middle {
+  color: black;
+  margin: 0 0 30px;
+  font-size: 22px;
+  letter-spacing: .1px;
+}
+
+.text-small {
+  color: black;
+  margin: 0 0 30px;
+  font-size: 18px;
+  letter-spacing: .1px;
+
+}
+
+.text-header {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.text-header:hover {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  transition: all ease .3s;
+}
+
+.info-city {
+  position: relative;
+  font-style: normal;
+  color: #fff;
+  font-size: 18px;
+  top: -1px;
+}
+
+.hightlighted-red {
+  color: #fd1015;
+  background: rgba(253,16,21,.1);
+  font-weight: bold;
+}
+
+.hightlighted-red-middle {
+  color: #fff;
+  background: rgba(253,16,21,.4);
+  font-weight: bold;
+  padding: 6px;
+}
+
+.hightlighted-red-middle:hover {
+  color: black;
+  background: #fff;
+  font-weight: bold;
+  padding: 6px;
+  transition: all ease .3s;
+}
+
+.hightlighted-purple {
+  color: #fd1015;
+  background: #ebe9fe;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.text-not-so-large {
+  color: black;
+  margin: 0 0 30px;
+  font-size: 26px;
+  letter-spacing: .1px;
+}

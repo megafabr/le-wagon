@@ -1,0 +1,60 @@
+.form {
+  padding-top: 100px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.cta {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 20px;
+  min-width: 95px;
+  min-height: 40px;
+  border-radius: 3px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all .15s ease;
+}
+
+.cta-big {
+  height: 64px;
+  width: 250px;
+  text-decoration: none;
+}
+
+.cta-secondary {
+  background-color: #fff;
+  color: #fd1015;
+  box-shadow: 0 2px 14px rgba(126,87,88,.1), 0 3px 6px rgba(0,0,0,.08);
+}
+
+.cta-secondary:hover {
+  background-color: #fd1015;
+  color: #fff;
+  box-shadow: 0 2px 14px rgba(126,87,88,.1), 0 3px 6px rgba(0,0,0,.08);
+  transition: all ease .3s;
+}
+
+.cta-primary {
+  background-color: #fd1015;
+  color: #fff;
+  box-shadow: 0 2px 14px rgba(126,87,88,.1), 0 3px 6px rgba(0,0,0,.08);
+}
+
+.cta-primary:hover {
+  background-color: #fff;
+  color: #fd1015;
+  box-shadow: 0 2px 14px rgba(126,87,88,.1), 0 3px 6px rgba(0,0,0,.08);
+  transition: all ease .3s;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}

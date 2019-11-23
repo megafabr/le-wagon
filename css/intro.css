@@ -1,0 +1,11 @@
+.intro {
+  margin: 0 auto;
+  max-width: 1140px;
+}
+
+
+.intro-content {
+  padding-top: 150px;
+  position: relative;
+  z-index: 1;
+}
