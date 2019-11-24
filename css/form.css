@@ -1,9 +1,16 @@
 .form {
-  padding-top: 100px;
+  padding-top: 80px;
   position: relative;
   z-index: 1;
 }
 
+@media (max-width: 960px) {
+  .form {
+    padding-top: 40px;
+    /*position: relative;*/
+    z-index: 1;
+  }
+}
 
 .cta {
   display: -ms-flexbox;
