@@ -15,18 +15,20 @@
 }
 
 .header {
-  width: 1370px;
+  /*width: 1370px;*/
+  width: auto;
 }
 
 .header-nav {
   float: right;
   vertical-align: baseline;
   line-height: 36px;
+  z-index: 1;
 }
 
 .header-nav-item {
-  list-style: none;
-  padding: 0 10px;
+  /*list-style: none;*/
+  padding: 0 30px;
   margin: -25px;
   display: inline-block;
 }
