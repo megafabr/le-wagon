@@ -9,6 +9,7 @@
     float: none;
     width: 270px;
     margin-left: 20px;
+    margin-bottom: auto;
   }
 }
 
@@ -22,7 +23,7 @@
   width: 40%;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 960px) {
   .column-1-2-campus {
     float: none;
     width: auto;
@@ -44,4 +45,5 @@
   max-width: 840px;
   margin-left: 20px;
   margin-right: auto;
+  margin-top: auto;
 }

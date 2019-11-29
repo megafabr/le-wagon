@@ -15,7 +15,6 @@
 }
 
 .header {
-  /*width: 1370px;*/
   width: auto;
 }
 
@@ -26,11 +25,29 @@
   z-index: 1;
 }
 
+@media (max-width: 960px) {
+  .header-nav {
+    float: none;
+    vertical-align: baseline;
+    line-height: 36px;
+    z-index: 1;
+  }
+}
+
 .header-nav-item {
   /*list-style: none;*/
   padding: 0 30px;
   margin: -25px;
   display: inline-block;
+}
+
+@media (max-width: 960px) {
+  .header-nav-item {
+    /*list-style: none;*/
+    padding: 0 30px;
+    margin: -25px;
+    display: block;
+  }
 }
 
 .header-nav-link {
