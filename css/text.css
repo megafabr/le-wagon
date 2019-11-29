@@ -3,14 +3,11 @@ body {
   font-size: 16px;
 }
 
-
 .text-large-intro {
   color: #fff;
   margin: 0 0 30px;
-  /*font-family: CircularStd-Black, SimHei;*/
   font-size: 48px;
   letter-spacing: .1px;
-
 }
 
 .text-middle-intro {
@@ -25,7 +22,6 @@ body {
   margin: 0 0 30px;
   font-size: 48px;
   letter-spacing: .1px;
-
 }
 
 .text-middle {
@@ -40,7 +36,6 @@ body {
   margin: 0 0 30px;
   font-size: 18px;
   letter-spacing: .1px;
-
 }
 
 .text-header {

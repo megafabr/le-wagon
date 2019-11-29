@@ -30,7 +30,6 @@
   }
 }
 
-
 .buffer-both {
   margin-top: 80px;
   margin-bottom: 40px;
@@ -41,7 +40,6 @@
 }
 
 .container {
-  /*float: left;*/
   max-width: 840px;
   margin-left: 20px;
   margin-right: auto;
