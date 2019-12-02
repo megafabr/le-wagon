@@ -8,6 +8,7 @@ body {
   margin: 0 0 30px;
   font-size: 48px;
   letter-spacing: .1px;
+  margin-left: 20px;
 }
 
 .text-middle-intro {
@@ -15,6 +16,7 @@ body {
   margin: 0 0 30px;
   font-size: 22px;
   letter-spacing: .1px;
+  margin-left: 20px;
 }
 
 .text-large {
@@ -26,9 +28,10 @@ body {
 
 .text-middle {
   color: black;
-  margin: 0 0 30px;
+  /*margin: 0 0 30px;*/
   font-size: 22px;
   letter-spacing: .1px;
+  margin-left: 20px;
 }
 
 .text-small {
@@ -39,7 +42,7 @@ body {
 }
 
 .text-header {
-  color: grey;
+  color: black;
   font-size: 18px;
   font-weight: bold;
 }
