@@ -1,5 +1,7 @@
 .wrapper {
   width: 1100px;
+  /*display: flex;*/
+  margin: auto;
 }
 
 .column-1-3 {
